@@ -1,0 +1,10 @@
+﻿node_modules/
+dist/
+build/
+target/
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+!.env.example
